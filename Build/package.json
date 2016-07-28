@@ -1,0 +1,25 @@
+{
+  "name": "a21-build-environment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artplan21/a21-build-environment.git"
+  },
+  "author": "",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/artplan21/a21-build-environment/issues"
+  },
+  "homepage": "https://github.com/artplan21/a21-build-environment#readme",
+  "dependencies": {
+    "bower": "*",
+    "foundation-cli": "*",
+    "foundation-sites": "*",
+    "sass-brunch": "*",
+    "modernizr": "*"
+  }
+}

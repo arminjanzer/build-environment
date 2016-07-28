@@ -1,0 +1,49 @@
+# Sass, Compass & Co.
+.sass-cache
+*.scssc
+# Ruby's bundler
+Build/.bundle
+# node.js
+Build/node_modules
+# IntelliJ aka PHPStorm, Webstorm & Co.
+.idea
+.idea*
+.~lock*
+# Eclipse
+.settings*
+.project*
+.data*
+.build*
+.externalToolBuilders*
+.tern-project*
+# subversion
+.svn*
+# Mac OSX
+.DS_Store
+._*
+# Windows
+Thumbs.db
+# TYPO3
+typo3temp/
+typo3/
+typo3_src*/
+fileadmin/
+uploads/
+deprecation_*.log
+# JUNO
+SKIP_CRON
+data/typo3temp/
+data/typo3/
+data/typo3_src*/
+data/fileadmin
+data/uploads
+build
+conf
+# Other
+# bash
+*.bak
+*~
+~*
+.bash_history
+# vhosts-scripts
+.vhosts-remote-config
